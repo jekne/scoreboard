@@ -1,6 +1,6 @@
 import "./App.css";
 import "./component/Players";
-import Player from "./component/Players";
+
 import Scoreboard from "./component/Scoreboard";
 import Title from "./component/Title";
 
